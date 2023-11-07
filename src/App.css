@@ -1,0 +1,37 @@
+.app {
+  width: 800px;
+  margin: 0 auto;
+  background-color: rgb(245, 176, 188);
+  text-align: center;
+  padding: 20px 30px;
+}
+
+.counter {
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.counter-item {
+  width: 150px;
+  height: 100px;
+  border-radius: 15px;
+  color: white;
+  padding-top: 30px;
+  background-color: rgb(184, 75, 184);
+
+}
+
+textarea {
+  display: inline-block;
+  width: 100%;
+}
+.word_counter_footer button{
+  background-color: rgb(184, 75, 184);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 15px 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
